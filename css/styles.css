@@ -65,5 +65,34 @@
    bottom: 5px;
    z-index: +1;
   }          
-        
-        
+  #today{
+     color: #6E3F19;
+    text-align: center;
+  }
+  #date_time{
+     font-size: 70%;
+  }
+  #ct {
+     font-size: 70%;
+  }
+  .responsive{
+   width: 100%;
+   height: auto;
+  position: absolute;
+  bottom: 10px;
+  background-color: #911534b0;
+ 
+  }
+  #p1 {
+     display: none;
+  }
+  #p2 {
+     display: none;
+  }
+  #p3 {
+     display: none;
+  }
+  .headlines {
+   background-color: #911534b0;
+   color: #FFFFFF;
+  }
